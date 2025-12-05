@@ -46,7 +46,7 @@
   <br/>
   
 <div align="center">
-    <img src="github-metrics.svg" alt="Metrics" width="40%">
+    <img src="github-metrics.svg" alt="Metrics" width="50%">
     <br/>
     <img src="https://raw.githubusercontent.com/NamelessVamp/NamelessVamp/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="60%"/>
   </div>
