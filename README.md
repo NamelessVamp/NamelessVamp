@@ -48,7 +48,7 @@
 
   <img src="github-metrics.svg" alt="Metrics" width="100%">
   <br/>
-  <img src="https://github.com/NamelessVamp/NamelessVamp/raw/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/NamelessVamp/NamelessVamp/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
   
   <br/><br/>
 
