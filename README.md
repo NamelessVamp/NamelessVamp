@@ -12,8 +12,7 @@
 
   <samp>
   > USER: Vamp <br/>
-  > LVL: 22 <br/>
-  > CLASS: Software Engineering Student
+  > LVL: 22
   </samp>
 
   <br/><br/>
@@ -24,9 +23,19 @@
 
   ### // ᴀ ʀ s ᴇ ɴ ᴀ ʟ
   
+
   <p>
     <img src="https://img.shields.io/badge/CODE-PYTHON-000000?style=for-the-badge&logo=python&logoColor=red" />
+    <img src="https://img.shields.io/badge/CODE-C%23-000000?style=for-the-badge&logo=csharp&logoColor=red" />
     <img src="https://img.shields.io/badge/AUTO-RPA-000000?style=for-the-badge&logo=uipath&logoColor=red" />
+    
+    <br/>
+    
+    <img src="https://img.shields.io/badge/WEB-HTML5-000000?style=for-the-badge&logo=html5&logoColor=red" />
+    <img src="https://img.shields.io/badge/WEB-CSS3-000000?style=for-the-badge&logo=css3&logoColor=red" />
+    
+    <br/>
+
     <img src="https://img.shields.io/badge/DB-NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <img src="https://img.shields.io/badge/CAD-FUSION_360-000000?style=for-the-badge&logo=autodesk&logoColor=red" />
   </p>
