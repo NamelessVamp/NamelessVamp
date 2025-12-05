@@ -19,7 +19,6 @@
   <p>
     <img src="https://img.shields.io/badge/CODE-PYTHON-000000?style=for-the-badge&logo=python&logoColor=red" />
     <img src="https://img.shields.io/badge/AUTO-RPA-000000?style=for-the-badge&logo=uipath&logoColor=red" />
-    <img src="https://img.shields.io/badge/OS-MAC_OS-000000?style=for-the-badge&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/DB-NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <img src="https://img.shields.io/badge/CAD-FUSION_360-000000?style=for-the-badge&logo=autodesk&logoColor=red" />
   </p>
