@@ -34,5 +34,7 @@
   | 03 | **L1GHT_L4B** | `[MAINTENANCE]` | `Hardware` |
 
   <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=00000000&center=true&vCenter=true&width=435&lines=EOF;SYSTEM_OFFLINE..." alt="Typing SVG" />
   
 </div>
