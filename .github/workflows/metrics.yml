@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  # Se actualiza cada hora
+  # Actualización automática cada hora
   schedule: [{cron: "0 * * * *"}]
   # Permite ejecutarlo manualmente
   workflow_dispatch:
@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # TOKEN PRINCIPAL
           token: ${{ secrets.METRICS_TOKEN }}
           
           # --- CONFIGURACIÓN VISUAL ---
@@ -20,10 +21,17 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: America/Mexico_City
-          
-          # ESTO ACTIVA EL MODO OSCURO
           config_theme: dark
           
-          # Calendario Isométrico
+          # CALENDARIO ISOMÉTRICO (3D)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          # --- MÓDULO DE MÚSICA (SPOTIFY) ---
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_limit: 2
+          plugin_music_played_at: yes
+          # Aquí usamos los secretos que acabas de guardar
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
