@@ -10,6 +10,14 @@
 
   <br/><br/>
 
+  <samp>
+  > USER: Vamp <br/>
+  > LVL: 22 <br/>
+  > CLASS: Software Engineering Student
+  </samp>
+
+  <br/><br/>
+
   > *"We treat errors as data for evolution. Fail fast. Iterate faster."*
 
   <br/>
@@ -31,7 +39,6 @@
   | :--- | :--- | :--- | :--- |
   | 01 | **V.A.M.P.** | `[LOADING...]` | `Computer Vision` |
   | 02 | **PROJ3CT_R1FT** | `[DEV_MODE]` | `TCG Simulator` |
-  | 03 | **L1GHT_L4B** | `[MAINTENANCE]` | `Hardware` |
 
   <br/>
 
