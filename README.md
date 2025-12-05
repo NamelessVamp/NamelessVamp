@@ -35,6 +35,6 @@
 
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=NamelessVamp&show_icons=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" height="150" alt="stats" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=00000000&center=true&vCenter=true&width=435&lines=EOF;SYSTEM_OFFLINE..." alt="Typing SVG" />
 
 </div>
