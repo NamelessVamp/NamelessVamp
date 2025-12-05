@@ -21,18 +21,18 @@
 
   <br/>
 
-### // ᴀ ʀ s ᴇ ɴ ᴀ ʟ
+  ### // ᴀ ʀ s ᴇ ɴ ᴀ ʟ
   
-  <p align="center">
-    <img src="https://img.shields.io/badge/CODE-PYTHON-000000?style=for-the-badge&logo=python&logoColor=red" />
-    <img src="https://img.shields.io/badge/CODE-C%23-000000?style=for-the-badge&logo=csharp&logoColor=red" />
-    <img src="https://img.shields.io/badge/AUTO-RPA-000000?style=for-the-badge&logo=uipath&logoColor=red" />
-    <br/>
-    <img src="https://img.shields.io/badge/WEB-HTML5-000000?style=for-the-badge&logo=html5&logoColor=red" />
-    <img src="https://img.shields.io/badge/WEB-CSS3-000000?style=for-the-badge&logo=css3&logoColor=red" />
-    <br/>
-    <img src="https://img.shields.io/badge/DB-NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    <img src="https://img.shields.io/badge/CAD-FUSION_360-000000?style=for-the-badge&logo=autodesk&logoColor=red" />
+  <p>
+<img src="https://img.shields.io/badge/CODE-PYTHON-000000?style=for-the-badge&logo=python&logoColor=red" />
+<img src="https://img.shields.io/badge/CODE-C%23-000000?style=for-the-badge&logo=csharp&logoColor=red" />
+<img src="https://img.shields.io/badge/AUTO-RPA-000000?style=for-the-badge&logo=uipath&logoColor=red" />
+<br/>
+<img src="https://img.shields.io/badge/WEB-HTML5-000000?style=for-the-badge&logo=html5&logoColor=red" />
+<img src="https://img.shields.io/badge/WEB-CSS3-000000?style=for-the-badge&logo=css3&logoColor=red" />
+<br/>
+<img src="https://img.shields.io/badge/DB-NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/CAD-FUSION_360-000000?style=for-the-badge&logo=autodesk&logoColor=red" />
   </p>
 
   <br/>
@@ -46,27 +46,12 @@
 
   <br/>
 
-  <div align="center">
-    <img src="github-metrics.svg" alt="Metrics" width="100%">
-    <br/><br/>
-    <img src="https://github.com/NamelessVamp/NamelessVamp/raw/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-  </div>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=00000000&center=true&vCenter=true&width=435&lines=EOF;SYSTEM_OFFLINE..." alt="Typing SVG" />
-  
-</div>
-
-  ### // ᴄ ᴜ ʀ ʀ ᴇ ɴ ᴛ _ ᴏ ʙ ᴊ ᴇ ᴄ ᴛ ɪ ᴠ ᴇ s
-
-  | ID | P_N4M3 | STATUS | TYPE |
-  | :--- | :--- | :--- | :--- |
-  | 01 | **V.A.M.P.** | `[LOADING...]` | `Computer Vision` |
-  | 02 | **PROJ3CT_R1FT** | `[DEV_MODE]` | `TCG Simulator` |
-
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
   <br/>
+  <img src="https://github.com/NamelessVamp/NamelessVamp/raw/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  
+  <br/><br/>
 
-  ![Metrics](github-metrics.svg)
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=00000000&center=true&vCenter=true&width=435&lines=EOF;SYSTEM_OFFLINE..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=00000000&center=true&vCenter=true&width=435&lines=Wake+up,+Samurai...;We+have+a+city+to+burn.;The+Glorious+Evolution+is+coming.;SYSTEM_OFFLINE..." alt="Typing SVG" />
   
 </div>
