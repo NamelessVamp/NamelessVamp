@@ -35,6 +35,6 @@
 
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=NamelessVamp&show_icons=true&theme=radical&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=999" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NamelessVamp&show_icons=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" height="150" alt="stats" />
 
 </div>
