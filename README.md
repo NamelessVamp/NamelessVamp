@@ -29,14 +29,25 @@
       <img src="https://img.shields.io/badge/CAD-FUSION_360-000000?style=for-the-badge&logo=autodesk&logoColor=red" />
       <br/><br/>
       <h3>// ᴏ ʙ ᴊ ᴇ ᴄ ᴛ ɪ ᴠ ᴇ s</h3>
-            | ID | P_N4M3 | STATUS |
-      | :--- | :--- | :--- |
-      | 01 | **V.A.M.P.** | `[LOADING]` |
-      | 02 | **PROJ3CT_R1FT** | `[DEV]` |
-
-  </td>
-    
-  <td width="50%" valign="top">
+      <table>
+        <tr>
+          <th>ID</th>
+          <th>P_N4M3</th>
+          <th>STATUS</th>
+        </tr>
+        <tr>
+          <td>01</td>
+          <td><b>V.A.M.P.</b></td>
+          <td><code>[LOADING]</code></td>
+        </tr>
+        <tr>
+          <td>02</td>
+          <td><b>PROJ3CT_R1FT</b></td>
+          <td><code>[DEV]</code></td>
+        </tr>
+      </table>
+    </td>
+        <td width="50%" valign="top">
       <div align="center">
         <img src="github-metrics.svg" alt="Metrics" width="100%">
         <br/><br/>
