@@ -43,13 +43,13 @@
   | :--- | :--- | :--- | :--- |
   | 01 | **V.A.M.P.** | `[LOADING...]` | `Computer Vision` |
   | 02 | **PROJ3CT_R1FT** | `[DEV_MODE]` | `TCG Simulator` |
-
   <br/>
-
-  ![Metrics](github-metrics.svg)
-  <img src="https://raw.githubusercontent.com/NamelessVamp/NamelessVamp/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
   
-  <br/><br/>
+<div align="center">
+    <img src="github-metrics.svg" alt="Metrics" width="60%">
+    <br/>
+    <img src="https://raw.githubusercontent.com/NamelessVamp/NamelessVamp/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="60%"/>
+  </div>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=00000000&center=true&vCenter=true&width=435&lines=Wake+up,+Samurai...;We+have+a+city+to+burn.;The+Glorious+Evolution+is+coming.;SYSTEM_OFFLINE..." alt="Typing SVG" />
   
